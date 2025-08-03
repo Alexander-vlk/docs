@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc6671cce337c38f",
+        "id": "9b0f54702b6c9bae",
         "type": "tabs",
         "children": [
           {
-            "id": "96de31461d478e92",
+            "id": "eb5e7f625fa1eed1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Axios/Axios.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Axios"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frontend/Axios/Axios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Axios"
             }
           },
           {
@@ -161,20 +166,43 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c8528be0d2b8d242",
+  "active": "eb5e7f625fa1eed1",
   "lastOpenFiles": [
+    "Frontend/Axios/Axios.md",
+    "Frontend/CSS/CSS.md",
+    "Frontend/JavaScript/JavaScript.md",
+    "Frontend/Pinia/Pinia.md",
+    "Frontend/Vue/Vue.md",
+    "Frontend/Vue Router/Vue Router.md",
+    "Other/Other.md",
+    "DevOps/Nginx/Nginx.md",
+    "DevOps/Docker/Docker.md",
+    "DevOps/Deploy/Deploy.md",
+    "DevOps/CI-CD/CI-CD.md",
+    "Backend/Backend.md",
+    "Backend/RabbitMQ/RabbitMQ.md",
+    "Backend/Python/Python.md",
+    "Backend/Git/Git.md",
+    "Backend/Django REST Framework/REST Framework.md",
+    "Backend/Django/Views/Views.md",
+    "Backend/Django/ORM/ORM.md",
+    "Backend/Django/Migrations/Migrations.md",
+    "Backend/Django/Django.md",
+    "Backend/Databases/Redis/Redis.md",
+    "Backend/Databases/PostgreSQL/PostgreSQL.md",
+    "Backend/Databases/ClickHouse/ClickHouse.md",
+    "Backend/Databases/Databases.md",
+    "Backend/Celery/Celery.md",
+    "Backend/Архитектура/Архитектура.md",
     "Other",
     "DevOps/Deploy",
     "DevOps/CI-CD",
-    "Backend/Databases/PostgreSQL/Индексы.md",
     "Backend/Databases/SQL",
     "Frontend/Axios",
     "Frontend/Vue Router",
     "Backend/Архитектура",
     "Backend/Django/ORM",
     "Backend/Django REST Framework/API Views",
-    "Backend/Django REST Framework/Serializers",
-    "Backend/Django REST Framework",
-    "Welcome.md"
+    "Backend/Django REST Framework/Serializers"
   ]
 }
