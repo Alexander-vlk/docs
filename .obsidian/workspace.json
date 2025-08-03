@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "cb73bf063df3dd98",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6671cce337c38f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96de31461d478e92",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7327570f4df6648",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b8b6b0579c9c0ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8528be0d2b8d242",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d5f6b23562ea58f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "872bfe72c3c521f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edb6e7b3ebf73243",
+    "type": "split",
+    "children": [
+      {
+        "id": "3188768bcb6d162d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98cdaeea319b89bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "30589c7aa2c31b17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "12e4bc08d7442b4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e112962e801516b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "c8528be0d2b8d242",
+  "lastOpenFiles": [
+    "Other",
+    "DevOps/Deploy",
+    "DevOps/CI-CD",
+    "Backend/Databases/PostgreSQL/Индексы.md",
+    "Backend/Databases/SQL",
+    "Frontend/Axios",
+    "Frontend/Vue Router",
+    "Backend/Архитектура",
+    "Backend/Django/ORM",
+    "Backend/Django REST Framework/API Views",
+    "Backend/Django REST Framework/Serializers",
+    "Backend/Django REST Framework",
+    "Welcome.md"
+  ]
+}
